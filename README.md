@@ -12,6 +12,17 @@ Today, cryptocurrency technology is not properly applied to the mobile space, an
 * Serve $uwu holders and the Unicornandmemes community by praying homage to our favorite and most hilarious meme coin, UwU8RVXB69Y6Dcju6cN2Qef6fykkq6UUNpB15rZku6Z
 
 
-* 
-
+* the smart contracts for a decentralized autonomous organization shall govern all of the following:
+(i) Relations among the members and between the members and the decentralized autonomous organization;
+(ii) Rights and duties under this chapter of a person in their capacity as a member;
+(iii) Activities of the decentralized autonomous organization and the conduct of those activities;
+(iv) Means and conditions for amending the operating agreement;
+(v) Rights and voting rights of members;
+(vi) Transferability of membership interests
+(vii) Withdrawal of membership;
+(viii) Distributions to members prior to dissolution;
+(ix) Amendment of the articles of organization;
+(x) Procedures for updating, modifying or otherwise revising the organization's smart contracts;
+(xi) Dispute resolution;
+(xii) All other aspects of the decentralized autonomous organization.
 
